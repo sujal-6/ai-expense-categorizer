@@ -270,14 +270,18 @@ model_name:categories:description
 ```
 ai-expense-categorizer/
 │
+├── app.py
 ├── categorizer.py
 ├── anomaly_detection.py
 ├── process_data.py
-├── requirements.txt
-├── README.md
+├── reports.py
 │
-└── data/
-    └── expenses.csv
+├── data/
+│   └── expenses.csv
+│
+├── requirements.txt
+└── README.md
+
 ```
 
 ---
