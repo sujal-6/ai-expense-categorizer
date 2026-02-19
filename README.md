@@ -1,4 +1,4 @@
-# AI Expense Categorizer with Anomaly Detection
+# AI Expense Categorizer
 
 An intelligent expense processing system that uses a **Large Language Model (LLM)** to automatically categorize expenses and detect anomalous spending patterns. The system is optimized for performance using caching and includes statistical anomaly detection for financial auditing and monitoring.
 
