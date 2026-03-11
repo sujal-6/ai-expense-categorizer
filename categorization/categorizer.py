@@ -44,7 +44,7 @@ def classify(description, categories):
 
     # First cache
     if cache_key in cache:
-        return cache[cache_key2]
+        return cache[cache_key]
     
     prompt = f"""You are an expense classification assistant. Classify the following expense into ONE of these categories:
     {categories}
